@@ -3,7 +3,6 @@ This project involves creating a personal portfolio website using HTML, CSS, and
 # Using Languages
 HTML,CSS and JAVASCRIPT.
 
-#Tools Used
-VSCOde
-
+# Tools Used
+Vs Code
 
